@@ -1,121 +1,78 @@
 {
-    "movies": [
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=SK",
-        "link": "https://goplayer3.com/embed-460mcaxensz9.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=The+Planet+Of+The+Apes",
-        "link": "https://goplayer3.com/embed-vaqlg97xgck4.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Bade+Miyan+Chote+Miyan",
-        "link": "https://goplayer3.com/embed-hnhe0ysrvr7w.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Manjummel+Boys",
-        "link": "https://goplayer3.com/embed-4zn2qsq0hpek.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Furiosa+A+Mad+Max+Saga",
-        "link": "https://goplayer3.com/embed-9yodep2k3j1z.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Varshangalkku+Shesham",
-        "link": "https://goplayer3.com/embed-nwvcvl94q11f.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Guruvayoorambala+Nadayil",
-        "link": "https://goplayer3.com/embed-yw99qd6rfblm.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Kung+Fu+Panda+4",
-        "link": "https://goplayer3.com/embed-viyepp7tscay.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Premalu",
-        "link": "https://goplayer3.com/embed-qjpg4cz2dqek.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Godzilla+x+Kong",
-        "link": "https://goplayer3.com/embed-ulrvn1r08vi2.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Operation+Valentine",
-        "link": "https://goplayer3.com/embed-igk5qdc0c8ly.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Madame+Web",
-        "link": "https://goplayer3.com/embed-h93oe3f02elo.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Guntur+Kaaram",
-        "link": "https://goplayer3.com/embed-4mi51blsoq7t.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=3(Three)",
-        "link": "https://goplayer3.com/embed-qpq30u7aod9x.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Aquaman+2024",
-        "link": "https://goplayer3.com/embed-gqfsogsvvg5w.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=The+Marvels",
-        "link": "https://goplayer3.com/embed-4emst605aizo.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Amigos",
-        "link": "https://goplayer3.com/embed-8j2kx9cfo2xa.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=The+Exorcist:+Believer",
-        "link": "https://goplayer3.com/embed-wkptlvkvv9fs.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Mission:+Impossible",
-        "link": "https://goplayer3.com/embed-8dbu1ph3adg7.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Elemental",
-        "link": "https://goplayer3.com/embed-fl1jazhci7q0.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Across+the+Spider+Verse",
-        "link": "https://goplayer3.com/embed-9nahlctu0x75.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Into+the+Spider+Verse",
-        "link": "https://goplayer3.com/embed-xr25ywtm8ln0.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Transformers:+1",
-        "link": "https://goplayer3.com/embed-3j9x0ks2mq86.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Transformers:+2",
-        "link": "https://goplayer3.com/embed-atyxsc2eu98c.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Transformers:+3",
-        "link": "https://goplayer3.com/embed-he0vv8w8top4.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Transformers:+4",
-        "link": "https://goplayer3.com/embed-xpsy6hhfznk4.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Transformers:+5",
-        "link": "https://goplayer3.com/embed-fpop0aaxb9dd.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Titanic",
-        "link": "https://goplayer3.com/embed-jwjvyjl86mng.html"
-      },
-      {
-        "uri": "https://via.placeholder.com/150/ffff00/000000?text=Doraemon+Moon",
-        "link": "https://goplayer3.com/embed-3voxxx8iuygk.html"
-      }
-    ]
-  }
-  
+  "placeholders": [
+    {
+      "id": 1,
+      "imageUri": "https://media1.tenor.com/m/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
+      "grid1": [
+        {
+          "imageUri": "https://media1.tenor.com/m/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://goplayer3.com/embed-skhx84dzb4w1.html"
+        },
+        {
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video2"
+        },
+        {
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
+      "grid2": [
+        {
+          "imageUri": "https://media1.tenor.com/m/2dNp58HBC8IAAAAC/fast-and-furious.gif",
+          "videoUrl": "https://example.com/video3"
+        },
+        {
+          "imageUri": "https://media1.tenor.com/m/1XLQF9xHOGIAAAAC/fast-furious.gif",
+          "videoUrl": "https://example.com/video4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imageUri": "https://media1.tenor.com/m/2dNp58HBC8IAAAAC/fast-and-furious.gif",
+      "grid3": [
+        {
+          "imageUri": "https://media1.tenor.com/m/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video5"
+        },
+        {
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video6"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imageUri": "https://media1.tenor.com/m/2dNp58HBC8IAAAAC/fast-and-furious.gif",
+      "grid3": [
+        {
+          "imageUri": "https://media1.tenor.com/m/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video5"
+        },
+        {
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video6"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imageUri": "https://media1.tenor.com/m/2dNp58HBC8IAAAAC/fast-and-furious.gif",
+      "grid3": [
+        {
+          "imageUri": "https://media1.tenor.com/m/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video5"
+        },
+        {
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
+          "videoUrl": "https://example.com/video6"
+        }
+      ]
+    }
+  ]
+}
