@@ -3,7 +3,7 @@
     {
       "id": 1,
       "imageUri": "https://th.bing.com/th/id/OIP.1vIvMBQTFRrW4H77D1J9wgHaEJ?rs=1&pid=ImgDetMain",
-      
+          "grid1": [
         {
           "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-1",
           "videoUrl": "https://goplayer3.com/embed-0qxvia4abfr9.html"
