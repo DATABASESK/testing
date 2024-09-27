@@ -2,123 +2,79 @@
   "placeholders": [
     {
       "id": 1,
-      "imageUri": "https://th.bing.com/th/id/OIP.1vIvMBQTFRrW4H77D1J9wgHaEJ?rs=1&pid=ImgDetMain"
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-1",
-    "videoUrl": "https://goplayer3.com/embed-0qxvia4abfr9.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-2",
-    "videoUrl": "https://goplayer3.com/embed-sk1s2kwke18d.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-3",
-    "videoUrl": "https://goplayer3.com/embed-hfvs86lrfvh0.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-4",
-    "videoUrl": "https://goplayer3.com/embed-w3dyjh1zmn67.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-5",
-    "videoUrl": "https://goplayer3.com/embed-5gfskcaj2yam.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-6",
-    "videoUrl": "https://goplayer3.com/embed-99w0qvwqzzlp.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-7",
-    "videoUrl": "https://goplayer3.com/embed-mvf2okwxut9v.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-8",
-    "videoUrl": "https://goplayer3.com/embed-tmmlqtcqbdar.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-9",
-    "videoUrl": "https://goplayer3.com/embed-x0df3494qi4o.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-10",
-    "videoUrl": "https://goplayer3.com/embed-0t3nimaj2oiy.html"
-  }
-]
-
+      "imageUri": "https://th.bing.com/th/id/OIP.1vIvMBQTFRrW4H77D1J9wgHaEJ?rs=1&pid=ImgDetMain",
+      "placeholders": [
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-1",
+          "videoUrl": "https://goplayer3.com/embed-0qxvia4abfr9.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-2",
+          "videoUrl": "https://goplayer3.com/embed-sk1s2kwke18d.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-3",
+          "videoUrl": "https://goplayer3.com/embed-hfvs86lrfvh0.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-4",
+          "videoUrl": "https://goplayer3.com/embed-w3dyjh1zmn67.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-5",
+          "videoUrl": "https://goplayer3.com/embed-5gfskcaj2yam.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-6",
+          "videoUrl": "https://goplayer3.com/embed-99w0qvwqzzlp.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-7",
+          "videoUrl": "https://goplayer3.com/embed-mvf2okwxut9v.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-8",
+          "videoUrl": "https://goplayer3.com/embed-tmmlqtcqbdar.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-9",
+          "videoUrl": "https://goplayer3.com/embed-x0df3494qi4o.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-10",
+          "videoUrl": "https://goplayer3.com/embed-0t3nimaj2oiy.html"
+        }
+      ]
     },
     {
       "id": 2,
       "imageUri": "https://th.bing.com/th/id/OIP.kRNXMzGBHvndB175Xuw7egHaEK?w=296&h=180&c=7&r=0&o=5&pid=1.7",
       "grid2": [
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-1",
-    "videoUrl": "https://goplayer3.com/embed-jt90o8majvae.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-2",
-    "videoUrl": "https://goplayer3.com/embed-w9jnalliioma.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-3",
-    "videoUrl": "https://goplayer3.com/embed-wfekkbhqb5lo.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-4",
-    "videoUrl": "https://goplayer3.com/embed-xfa4fyvr40eq.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-5",
-    "videoUrl": "https://goplayer3.com/embed-65c51v1w888k.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-6",
-    "videoUrl": "https://goplayer3.com/embed-8a9olkkvk118.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-7",
-    "videoUrl": "https://goplayer3.com/embed-audpau14v6jx.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-8",
-    "videoUrl": "https://goplayer3.com/embed-hswhzpujkfiq.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-9",
-    "videoUrl": "https://goplayer3.com/embed-drdd7ildhlxm.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-10",
-    "videoUrl": "https://goplayer3.com/embed-0lv15o6n202l.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-11",
-    "videoUrl": "https://goplayer3.com/embed-jsih6nkvz4er.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-12",
-    "videoUrl": "https://goplayer3.com/embed-uy7mr6ppdj0n.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-13",
-    "videoUrl": "https://goplayer3.com/embed-2297g3nt0sf6.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-14",
-    "videoUrl": "https://goplayer3.com/embed-2wg5yyw6q79w.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-15",
-    "videoUrl": "https://goplayer3.com/embed-3tq2jv7y6mpu.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-16",
-    "videoUrl": "https://goplayer3.com/embed-vmemmdbyt2uw.html"
-  },
-  {
-    "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-17",
-    "videoUrl": "https://goplayer3.com/embed-qu6cirv7nl1v.html"
-  }
-]
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-1",
+          "videoUrl": "https://goplayer3.com/embed-jt90o8majvae.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-2",
+          "videoUrl": "https://goplayer3.com/embed-w9jnalliioma.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-3",
+          "videoUrl": "https://goplayer3.com/embed-wfekkbhqb5lo.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-4",
+          "videoUrl": "https://goplayer3.com/embed-xfa4fyvr40eq.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-5",
+          "videoUrl": "https://goplayer3.com/embed-65c51v1w888k.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-6",
+          "videoUrl": "https://goplayer3.com/embed-8a9olkkvk118.html" 
+        }
+      ]
 
     },
     {
