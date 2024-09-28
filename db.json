@@ -79,15 +79,35 @@
     },
     {
       "id": 3,
-      "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=Grid 3",
+      "imageUri": "https://www.jabarpublisher.co.id/wp-content/uploads/2024/01/Gyeongseong-Creature-Season-2-Trailer-700x350.jpg",
       "grid3": [
         {
-          "imageUri": "https://media1.tenor.com/m/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
-          "videoUrl": "https://example.com/video5"
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-1",
+          "videoUrl": "https://goplayer3.com/embed-pbluhq4bbe3l.html"
         },
         {
-          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
-          "videoUrl": "https://example.com/video6"
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-2",
+          "videoUrl": "https://goplayer3.com/embed-ulf2lqryvw8z.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-3",
+          "videoUrl": "https://goplayer3.com/embed-kcqpnhz3e8eu.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-4",
+          "videoUrl": "https://goplayer3.com/embed-1f0pf56ylydi.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-5",
+          "videoUrl": "https://goplayer3.com/embed-h8dsjlotky58.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-6",
+          "videoUrl": "https://goplayer3.com/embed-lwmmc1ah1oun.html"
+        },
+        {
+          "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=EPISODE-7",
+          "videoUrl": "https://goplayer3.com/embed-662k1pbxirl8.html"
         }
       ]
     },
