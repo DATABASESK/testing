@@ -184,7 +184,7 @@
       "imageUri": "https://via.placeholder.com/150/ffff00/000000?text=Grid 6",
       "grid6": [
         {
-          "imageUri": "https://media1.tenor.com/m/2dNp58HBC8IAAAAC/fast-and-furious.gif",
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
           "videoUrl": "https://example.com/video3"
         },
         {
@@ -272,7 +272,7 @@
           "videoUrl": "https://example.com/video3"
         },
         {
-          "imageUri": "https://media1.tenor.com/m/1XLQF9xHOGIAAAAC/fast-furious.gif",
+          "imageUri": "https://media1.tenor.com/m/T-PSNWPcfJIAAAAC/2fast2furious-the-fast-and-the-furious.gif",
           "videoUrl": "https://example.com/video4"
         }
       ]
